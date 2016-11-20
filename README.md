@@ -1,2 +1,2 @@
 # Python-for-Data-Science
-Course Companion
+files for the Python for Data Science Essentials course
